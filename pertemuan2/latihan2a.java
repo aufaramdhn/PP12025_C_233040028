@@ -14,8 +14,6 @@ public class latihan2a {
         latihan1 l2 = new latihan1(7);
         latihan1 l3 = new latihan1(9);
         latihan1 l4 = new latihan1(8);
-        latihan1 l5 = new latihan1(2);
-        latihan1 l6 = new latihan1(3);
 
         l1.setNext(l2);
         l2.setNext(l3);
